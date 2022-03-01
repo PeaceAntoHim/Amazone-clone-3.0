@@ -86,7 +86,7 @@ Test card: 4242 4242 4242 4242
 
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
 
-<a href="https://www.buymeacoffee.com/stefanusfry"
+<a href="https://www.buymeacoffee.com/stefanusfry">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" />
 </a>
 
@@ -94,6 +94,6 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ## License
 
-> You can check out the full license [here](https://github.com/PeaceAntoHim/amazon-clone/blob/main/LICENSE)
+> You can check out the full license [here](https://github.com/PeaceAntoHim/Amazone-clone-3.0/blob/main/LICENSE)
 
 This project is licensed under the terms of the **MIT** license
